@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ASD2022-L1-Complexite",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "part1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part1-Debug-052450dbeda0cb508110.json",
+					"name" : "part1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "part2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part2-Debug-79541517336ff9710090.json",
+					"name" : "part2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "part3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part3-Debug-1a382a3abddbf35fb07c.json",
+					"name" : "part3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/guillaumetrueb/Library/CloudStorage/OneDrive-HESSO/HEIG-VD/2 - ASD/2 - LABORATOIRES/ASD2023-L1-Complexite/src/cmake-build-compiler-cpp",
+		"source" : "/Users/guillaumetrueb/Library/CloudStorage/OneDrive-HESSO/HEIG-VD/2 - ASD/2 - LABORATOIRES/ASD2023-L1-Complexite/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

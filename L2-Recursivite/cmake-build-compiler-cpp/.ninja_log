@@ -1,0 +1,7 @@
+# ninja log v5
+0	177	1678802744625493019	CMakeFiles/ASD2023_L2_Recursivite.dir/src/placement.cpp.o	a77b56b808b2d3e7
+0	260	1678802744709418127	CMakeFiles/ASD2023_L2_Recursivite.dir/src/main.cpp.o	34a89451f8cb38b9
+0	187	1678802744636041808	CMakeFiles/ASD2023_L2_Recursivite.dir/src/pieces.cpp.o	d58e3e95bad56967
+0	198	1678802744646506848	CMakeFiles/ASD2023_L2_Recursivite.dir/src/Solveur.cpp.o	ccdc2d9e509853b7
+261	313	1678802744763123319	ASD2023_L2_Recursivite	4c1be5306c290930
+3	354	1678806189203585230	CMakeFiles/ASD2023_L2_Recursivite.dir/src/pieces.cpp.o	d58e3e95bad56967
